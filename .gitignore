@@ -5,3 +5,6 @@ temp/iekfnets.p
 temp/normalize_factors.p
 src/__pycache__
 ai-imu-dr/
+
+# Windows to WSL
+*:Zone.Identifier
