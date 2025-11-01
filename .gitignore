@@ -6,5 +6,8 @@ temp/normalize_factors.p
 src/__pycache__
 ai-imu-dr/
 
+# Ignoring data for now, upload elsewhere
+raw-data-from-script/*
+
 # Windows to WSL
 *:Zone.Identifier

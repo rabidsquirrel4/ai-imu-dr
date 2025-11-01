@@ -455,7 +455,8 @@ def test_filter(args, dataset):
 
 
 class KITTIArgs():
-        path_data_base = "/media/mines/46230797-4d43-4860-9b76-ce35e699ea47/KITTI/raw"
+        # path_data_base = "/media/mines/46230797-4d43-4860-9b76-ce35e699ea47/KITTI/raw"
+        path_data_base = "../ai-imu-dr"
         path_data_save = "../data"
         path_results = "../results"
         path_temp = "../temp"

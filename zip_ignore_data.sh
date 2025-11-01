@@ -1,0 +1,1 @@
+zip -r ai-imu-dr.zip . -x ./ai-imu-dr/\* raw-data-from-script/\*

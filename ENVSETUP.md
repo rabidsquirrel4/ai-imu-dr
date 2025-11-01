@@ -20,3 +20,16 @@ cd ai-imu-dr/src
 ## If data directory not already there, mkdir:
 mkdir ../data
 python3 main_kitti.py
+
+
+# Attempting to switch VSCode Python Extension Version
+version 2020.9.114305
+- no signiture associated with this version
+I have no idea how to work this starting over
+
+# Installing extension Debugpy Old
+- did not activate
+
+# Trying another environment with python 3.13
+conda create -n aiimucurr matplotlib numpy termcolor scipy pytorch
+pip install NavPy
